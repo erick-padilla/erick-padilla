@@ -24,3 +24,5 @@ I may still be at the beginning of my professional journey, but I bring a strong
 **I'm looking for opportunities to turn my passion for IT into a career, learn from experienced professionals, and prove what I can bring to the table.**
 
 📫 Feel free to explore my repositories and follow my journey as I continue developing my skills!
+
+This is my social media linkedin https://www.linkedin.com/in/felipe-padilla-987101444/?isSelfProfile=true
